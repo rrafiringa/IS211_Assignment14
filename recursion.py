@@ -5,6 +5,7 @@
 Week 14 assignment: recursive functions
 """
 
+
 def fibonacci(n):
     """
     Calculate nth number of Fibonacci sequence
